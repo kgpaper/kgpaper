@@ -20,11 +20,11 @@
 
   ### 💬 About Me
 
-  [![](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kgpaper) kgpaper
+  [![](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white) kgpaper](https://github.com/kgpaper) 
 
-  [![](https://img.shields.io/badge/KaKaoMail-FFCD00?style=for-the-badge&logo=kakao&logoColor=white)](https://github.com/kgpaper) sanha_owo@kakao.com
+  [![](https://img.shields.io/badge/KaKaoMail-FFCD00?style=for-the-badge&logo=kakao&logoColor=white) sanha_owo@kakao.com](https://github.com/kgpaper) 
   
-  [![](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/sanhasanha) https://soundcloud.com/sanhasanha
+  [![](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white) https://soundcloud.com/sanhasanha](https://soundcloud.com/sanhasanha) 
   
-  [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/life_of_sanha/) @life_of_sanha
+  [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) @life_of_sanha](https://www.instagram.com/life_of_sanha/) 
 </center>
