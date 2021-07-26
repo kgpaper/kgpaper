@@ -2,7 +2,7 @@
 # Doyeon Kil✨
 ##### 작곡하는 개발자
 
-<div style="text-align: center">
+<center>
   
   ### 🛠 Tech Stack
   
@@ -27,4 +27,4 @@
   [![](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/sanhasanha) https://soundcloud.com/sanhasanha
   
   [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/life_of_sanha/) @life_of_sanha
-</div>
+</center>
