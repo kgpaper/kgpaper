@@ -23,5 +23,5 @@
 
   [![](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kgpaper) kgpaper
 
-  [![](https://img.shields.io/badge/KaKaoMail-181717?style=for-the-badge&logo=kakao&logoColor=white)](https://github.com/kgpaper) sanha_owo@kakao.com
+  [![](https://img.shields.io/badge/KaKaoMail-FFCD00?style=for-the-badge&logo=kakao&logoColor=white)](https://github.com/kgpaper) sanha_owo@kakao.com
 </div>
