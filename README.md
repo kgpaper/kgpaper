@@ -22,7 +22,7 @@
 
   ### 💬 About Me
 
-  [![](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white) kgpaper](https://github.com/kgpaper) 
+  [![](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white) sanha-kil](https://github.com/sanha-kil) 
 
   [![](https://img.shields.io/badge/KaKaoMail-FFCD00?style=for-the-badge&logo=kakao&logoColor=white) sanha_owo@kakao.com](https://github.com/kgpaper) 
   
