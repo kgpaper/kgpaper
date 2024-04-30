@@ -15,8 +15,6 @@
   ![](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white) 
   ![](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
   ![](https://img.shields.io/badge/FireBase-FFCA28?style=for-the-badge&logo=FireBase&logoColor=white) 
-  ![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
-  ![](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   
   ---
 
